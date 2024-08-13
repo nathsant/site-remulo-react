@@ -1,3 +1,3 @@
 # site-remulo-react
 
-Feito por Joao, Nathan, Samuel
+Feito por Gustavo F., Joao, Nathan, Samuel
